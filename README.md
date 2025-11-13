@@ -326,11 +326,6 @@ HIGH-LOW or LOW-HIGH (Mixed)
 | Streamlit won't start | Run `pip install --upgrade streamlit` |
 | Import errors | Check file names and paths |
 
----
-
-## 📄 License
-
-MIT License - Feel free to use and modify
 
 ---
 
